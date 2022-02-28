@@ -1,0 +1,39 @@
+{
+    "segments": {
+        "entries": "កំណត់ត្រា",
+        "calendar": "កាលបរិច្ឆេទ",
+        "diary": "ប្រចាំថ្ងៃ"
+    },
+    "calendarFormat": {
+        "week": "សប្តាណ៍",
+        "month": "ខែ",
+        "twoWeek": "២ សប្តាណ៍"
+    },
+    "days": {
+        "monday": "ចន្ច័",
+        "tuesday": "អង្គារ៏",
+        "wednesday": "ពុធ",
+        "thursday": "ព្រហស្ស័",
+        "friday": "សុក្រ",
+        "saturday": "សៅរ៍",
+        "sunday": "អាទិត្យ"
+    },
+    "months": {
+        "january": "មករា",
+        "febuary": "កុម្ភះ",
+        "march": "មីនា",
+        "april": "មេសា",
+        "may": "ឧសភា",
+        "june": "មិថុនា",
+        "july": "កក្កដា",
+        "august": "សីហា",
+        "september": "កញ្ញា",
+        "october": "តុលា",
+        "november": "វិច្ឆកា",
+        "december": "ធ្នូ"
+    },
+    "total_entries": "{} កំណត់ត្រា",
+    "title": "ចំណងជើង",
+    "how": "មានរឿងអ្វី?",
+    "no_entries": "មិនមានកំណត់ត្រា"
+}
